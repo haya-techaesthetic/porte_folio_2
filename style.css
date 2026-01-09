@@ -253,3 +253,12 @@ h2 {
   }
 }
 
+@media screen and (max-width: 1000px) and (min-width: 769px) {
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}
