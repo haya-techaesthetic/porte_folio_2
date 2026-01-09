@@ -214,7 +214,7 @@ h2 {
   .menu ul {
     flex-direction: column;
     gap: 15px;
-    padding-bottom: 4%;
+    padding-bottom: 4;
   }
 
   h1 {
@@ -252,3 +252,4 @@ h2 {
     max-width: 100%;
   }
 }
+
